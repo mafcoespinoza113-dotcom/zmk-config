@@ -91,3 +91,5 @@ layers:
 combos:
 - p: [34, 35]
   k: ⏭️
+- p: [11, 0]
+  k: {t: '$$mdi:led-on$$', h: '$$mdi:toggle-switch$$', s: '$$mdi:led-outline$$', type: toggle}
